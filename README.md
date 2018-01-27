@@ -1,1 +1,1 @@
-Nagios Core 4
+Nagios for OCP
